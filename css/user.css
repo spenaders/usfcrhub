@@ -1,0 +1,8 @@
+.whyus {
+        width: 42px;
+        background: url("img/goalw.png") no-repeat;
+        display: inline-block;
+    }
+.whyus:hover {
+        background: url("img/goalr.png") no-repeat;
+    }
